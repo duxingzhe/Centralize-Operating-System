@@ -1,0 +1,13 @@
+F:\Project\CTOS\CTOS\bin\Debug\CTOS.exe.config
+F:\Project\CTOS\CTOS\bin\Debug\CTOS.exe
+F:\Project\CTOS\CTOS\bin\Debug\CTOS.pdb
+F:\Project\CTOS\CTOS\obj\Debug\CTOS.csprojResolveAssemblyReference.cache
+F:\Project\CTOS\CTOS\obj\Debug\CTOS.Properties.Resources.resources
+F:\Project\CTOS\CTOS\obj\Debug\CTOS.csproj.GenerateResource.Cache
+F:\Project\CTOS\CTOS\obj\Debug\CTOS.exe
+F:\Project\CTOS\CTOS\obj\Debug\CTOS.pdb
+F:\Project\CTOS\CTOS\obj\Debug\CTOS.login.resources
+F:\Project\CTOS\CTOS\obj\Debug\CTOS.main.resources
+F:\Project\CTOS\CTOS\obj\Debug\CTOS.add.resources
+F:\Project\CTOS\CTOS\obj\Debug\CTOS.delete.resources
+F:\Project\CTOS\CTOS\obj\Debug\CTOS.review.resources
