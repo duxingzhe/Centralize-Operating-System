@@ -1,7 +1,7 @@
 主要的配置工具是：Visual Studio 2013。
 Ubuntu 14.10 Linux Kernel 4.0版本。
  
-数据库为：SQL Server 2014，这是数据库的内部。可以使用目录中的database/ctos.bak进行恢复。必须是2014版本，否则无法恢复。
+数据库为：SQL Server 2014。可以使用目录中的database/ctos.bak进行恢复。必须是2014版本，否则无法恢复。
 
 增加和编辑功能基本实现，但是其他的还要进一步实现。
 
